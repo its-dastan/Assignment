@@ -285,7 +285,7 @@ class _SignupState extends State<Signup> {
             ),
           ),
           SizedBox(
-            height: 73,
+            height: height * .12,
           ),
           Align(
             alignment: Alignment.bottomCenter,
